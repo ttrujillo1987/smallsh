@@ -1,5 +1,5 @@
 Program is a custom written shell. Provides a prompt for running commands, allows for comments, expands variable "$$", executes three built-in
-commands (exit, cd, and status), executes other commands by creating new precesses, supports I/O redirection, supports running commands in 
+commands (exit, cd, and status), executes other commands by creating new processes, supports I/O redirection, supports running commands in 
 foreground and background processes, and includes custom handlers for SIGINT and SIGSTP.
 
 To compile and run this program:
